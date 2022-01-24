@@ -23,7 +23,22 @@ author:
   github:         anujaryan
   linkedin:       anujpachauri
   medium:         anujpachauri
-  
+ 
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: 
+  facebook: anujpachauri
+  flickr:
+  github: anujpachauri
+  instagram:
+  linkedin: anujpachauri
+  pinterest:
+  rss: feed
+  twitter: anujpachauri
+  stackoverflow: users/6826197/apachauri
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: +anujpachauri 
 
 paginate:         5
 
